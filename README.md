@@ -1,4 +1,4 @@
-# Project Title
+# Scalex assignment
 
 This is a Go project that provides a simple book management system. The project is structured as follows:
 
