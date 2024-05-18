@@ -1,5 +1,8 @@
 # Scalex assignment
 
+[Problem Statement](./problem_statement.pdf)
+
+
 This is a Go project that provides a simple book management system. The project is structured as follows:
 
 
